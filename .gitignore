@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.DS_Store
+
+models_backup/
+data/
+README_backup.md
